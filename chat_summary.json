@@ -54,5 +54,11 @@
         "content": "Got it, working on adding a navbar with navlinks.",
         "timestamp": "24072024121233",
         "message_id": "guest24072024121231"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "timestamp": "24072024121427",
+        "message_id": "guest24072024121427"
     }
 ]
