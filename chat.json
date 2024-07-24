@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "message_id": "guest24072024121629",
+        "timestamp": "24072024121629",
+        "component_file_name": "purple_header_component_1721823011",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a sidebar with home, about and contact.",
         "message_id": "guest24072024121550",
