@@ -42,5 +42,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time transaction notifications toggle\", \"checked\": true}, {\"feature\": \"Advanced search filters for transactions\", \"checked\": false}, {\"feature\": \"Customizable 'Hello World' button text and color\", \"checked\": true}, {\"feature\": \"Dark/Light mode toggle\", \"checked\": false}, {\"feature\": \"Interactive transaction history chart\", \"checked\": true}, {\"feature\": \"Profile customization options for saved searches and favorites\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 98, \"time_taken\": \"0:00:07.461615\"}",
         "timestamp": "24072024121110",
         "message_id": "guest24072024121100"
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with the navlinks home, about and contact",
+        "timestamp": "24072024121231",
+        "message_id": "guest24072024121231"
     }
 ]
