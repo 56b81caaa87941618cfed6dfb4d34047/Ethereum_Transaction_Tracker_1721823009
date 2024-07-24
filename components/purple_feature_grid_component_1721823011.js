@@ -55,7 +55,11 @@ Vue.component("purple_feature_grid_component_1721823011", {
             </div>
             <div class="flex" id="feature-6-description-container"><p id="feature-6-description" class="flex-1 text-sm">Seamlessly integrate our transaction tracking capabilities into your existing tools and workflows through our robust API and SDK offerings.</p></div>
         </div>
-    </div>`,
+    </div>
+    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-4">
+        Hello World
+    </button>
+</div>`,
         data() {
             return {
                 expanded: false, 
@@ -63,4 +67,12 @@ Vue.component("purple_feature_grid_component_1721823011", {
             };
         },
     });
+
+    // Start of hello world button click method
+    methods: {
+        sayHello() {
+            alert('Hello World!');
+        }
+    },
+    // End of hello world button click method
                     
