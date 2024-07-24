@@ -21,6 +21,11 @@ Vue.component("purple_header_component_1721823011", {
                         <li><a id="Analytics-link" class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white" href="Analytics.html">Analytics</a></li>
                         <li><a id="Discover Ethereum-link" class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white" href="Discover Ethereum.html">Discover Ethereum</a></li>
                     </ul>
+
+                    <div class="flex-1">
+                        <button class="px-4 py-2 bg-blue-500 text-white rounded-md shadow-md hover:bg-blue-600 transition duration-300 ease-in-out">Hello World</button>
+                    </div>
+
     
                 </nav>
     
